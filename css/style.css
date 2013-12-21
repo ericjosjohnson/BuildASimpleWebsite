@@ -28,7 +28,7 @@ h2 {
 
 .btn  {
 	color: #FAF3BC;
-	background: #4FB69F url('img/red_button_texture.jpg') no-repeat right top;
+	background: #FE140D url('img/red_button_texture.jpg') no-repeat right top;
 	padding: 5px 30px;
     margin: 40px 20px;
     border-radius: 25px;
@@ -36,7 +36,7 @@ h2 {
 }
 
 .btn:hover {
-	background-color: #4CC4A7;
+	background: #FE140D;
 }
 
 ul.nav {

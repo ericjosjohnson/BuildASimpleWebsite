@@ -6,7 +6,7 @@ body {
 	/*font-family: 'Nunito', sans-serif;*/
 	font-family: 'Concert One', cursive;
 	color: #FAF3BC;
-	background: #FE140D ;
+	background: #D6AF12 url('img/Yellow_bkrd.jpg') no-repeat right top;
 }
 
 a {
@@ -28,7 +28,7 @@ h2 {
 
 .btn  {
 	color: #FAF3BC;
-	background: #4FB69F url('img/texture.png') no-repeat right top;
+	background: #4FB69F url('img/red_button_texture.jpg') no-repeat right top;
 	padding: 5px 30px;
     margin: 40px 20px;
     border-radius: 25px;

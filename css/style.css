@@ -1,3 +1,7 @@
+div {
+		border:5px solid gray;
+}
+
 body {
 	font-family: 'Nunito', sans-serif;
 	color: #FAF3BC;
@@ -33,7 +37,7 @@ h2 {
 }
 
 ul.nav {
-  margin: 120px 0 0 0;
+  margin: 80px 0 0 0;
   list-style: none;
   float: right;
 }
@@ -48,21 +52,50 @@ ul.nav li a {
 }#FFFF80
 
 #intro {
-	margin: 50px 0 75px 0;
+	float: left;
+/*	margin: 50px 0 75px 0;  */
+}
+
+#new-cupcakes {
+	float: right;
 }
 
 #new-cupcakes img {
 	border: 8px solid #FAF3BC;
 	margin: 0 0 20px 0;
+	float: right;
+}
+
+
+
+
+#featured-cupcake {
 }
 
 #featured-cupcake img {
-  border: 8px solid #FAF3BC;
+border: 8px solid #FAF3BC;
 }
+
+
+
 
 #copyright {
 	border-top: 8px solid #2A0400;
 	padding: 10px 0px;
 	margin: 15px 0px;
 	text-align: center;
+}
+
+#LSC_logo img {
+    width:320px; 
+    height: auto;
+    margin: 0;
+}
+
+#DVD_cover {
+    float: right;
+}
+
+#DVD_cover img {
+    float: right;
 }

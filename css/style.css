@@ -1,5 +1,5 @@
 div {
-		border:5px solid gray;
+		border: 1px dashed black;
 }
 
 body {
@@ -26,8 +26,8 @@ h2 {
 .btn  {
 	color: #FAF3BC;
 	background: #4FB69F url('img/texture.png') no-repeat right top;
-	padding: 15px 30px;
-    margin: 40px 0px;
+	padding: 5px 30px;
+    margin: 40px 20px;
     border-radius: 25px;
     text-transform: uppercase;
 }
@@ -44,7 +44,7 @@ ul.nav {
 
 ul.nav li {
 	float: left;
-	margin-right: 40px;
+	margin-right: 30px;
 }
 
 ul.nav li a {
@@ -66,9 +66,6 @@ ul.nav li a {
 	float: right;
 }
 
-
-
-
 #featured-cupcake {
 }
 
@@ -76,13 +73,10 @@ ul.nav li a {
 border: 8px solid #FAF3BC;
 }
 
-
-
-
 #copyright {
-	border-top: 8px solid #2A0400;
-	padding: 10px 0px;
-	margin: 15px 0px;
+	border-top: 2px solid #2A0400;
+	padding: 2px 0px;
+	margin: 2px 0px;
 	text-align: center;
 }
 

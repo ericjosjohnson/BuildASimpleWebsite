@@ -10,6 +10,7 @@
 .grid_3 { width: 235px; }
 .grid_4 { width: 320px; }
 .grid_5 { width: 405px; }
+.grid_5_9 { width: 485px; }
 .grid_6 { width: 490px; }
 .grid_7 { width: 575px; }
 .grid_8 { width: 660px; }
@@ -23,6 +24,7 @@
 .grid_3,
 .grid_4,
 .grid_5,
+.grid_5_9,
 .grid_6,
 .grid_7,
 .grid_8,

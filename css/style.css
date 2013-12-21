@@ -1,7 +1,7 @@
 body {
 	font-family: 'Nunito', sans-serif;
 	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	background: #FE140D ;
 }
 
 a {
@@ -45,7 +45,7 @@ ul.nav li {
 
 ul.nav li a {
 	color: #FAF3BC;
-}
+}#FFFF80
 
 #intro {
 	margin: 50px 0 75px 0;
